@@ -1,0 +1,12 @@
+post_install() {
+rm /etc/pacman.d/reborn-mirrorlist
+cp /etc/pacman.d/reborn-mirrorlist-new /etc/pacman.d/reborn-mirrorlist
+rm /etc/pacman.d/reborn-mirrorlist-new
+}
+
+post_upgrade() {
+rm /etc/pacman.d/reborn-mirrorlist
+cp /etc/pacman.d/reborn-mirrorlist-new /etc/pacman.d/reborn-mirrorlist
+rm /etc/pacman.d/reborn-mirrorlist-new
+}
+
