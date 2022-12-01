@@ -21,5 +21,13 @@ git clone https://github.com/RebornOS-Developers/rebornos-mirrorlist.git
 ```
 # mirror.arctic.lol (Finland)
 Server = http://mirror.arctic.lol/RebornMirror/
+```
+
+**NOTE 4:**  Mirror mirror.freedif.org (Singapore) added by panda:
+
+```
+# Singapore mirror:
+Server = https://mirror.freedif.org/rebornos/
+```
 
 

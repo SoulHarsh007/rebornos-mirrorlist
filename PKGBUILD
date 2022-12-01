@@ -2,16 +2,15 @@
 
 pkgname=rebornos-mirrorlist
 filename=reborn-mirrorlist
-pkgver=20220729
+pkgver=20221201
 pkgrel=1
 pkgdesc="RebornOS mirrorlist"
 arch=('any')
-url="https://gitlab.com/rebornos-team/rebornos-special-system-files/rebornos-mirrorlist"
-urlmirr="https://gitlab.com/rebornos-team/rebornos-special-system-files/mirrors"
+url="https://github.com/RebornOS-Developers/rebornos-mirrorlist"
 license=('GPL3')
 source=(${filename})
 install=${pkgname}.install
-sha256sums=('4d7b37096a493d0e4f4b3ae46a809063886e91ebdf4b118be214a38675cbd862')
+sha256sums=('5e75ecb3218a2b098e39fdaeb449b4d0f35a384c07c5e4a1cc7225fd7b8813cd')
 
 pkgver() {
     date +%Y%m%d
