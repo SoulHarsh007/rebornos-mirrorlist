@@ -1,4 +1,4 @@
-# --> RebornOS Mirrorlist from 20221201-1 <-- #
+# --> RebornOS Mirrorlist from 20221206-1 <-- #
 
 # RebornOS repo: repo.rebornos.org
 Server = https://repo.rebornos.org/RebornOS/
@@ -60,6 +60,9 @@ Server = https://plug-mirror.rcac.purdue.edu/osdn/storage/g/r/re/rebornos/repo/R
 # Mirror 19:
 Server = http://osdn.ip-connect.vn.ua/storage/g/r/re/rebornos/repo/RebornOS/
 
+# Mirror 20:
+Server = https://mirror.liquidtelecom.com/osdn/storage/g/r/re/rebornos/repo/RebornOS/
+
 
 
 # Singapore mirror (panda):
@@ -68,7 +71,6 @@ Server = https://mirror.freedif.org/rebornos/
 
 # RebornOS mirror.clarkson.edu
 Server = https://mirror.clarkson.edu/RebornOS/RebornOS/
-
 
 
 # Sourceforge mirror with redirection
