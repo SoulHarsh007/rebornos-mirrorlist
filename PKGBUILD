@@ -2,7 +2,7 @@
 
 pkgname=rebornos-mirrorlist
 filename=reborn-mirrorlist
-pkgver=20221206
+pkgver=20230424
 pkgrel=1
 pkgdesc="RebornOS mirrorlist"
 arch=('any')
@@ -10,7 +10,7 @@ url="https://github.com/RebornOS-Developers/rebornos-mirrorlist"
 license=('GPL3')
 source=(${filename})
 install=${pkgname}.install
-sha256sums=('2030a04a3ed693162d3b7fe77b4ec421d7c2e48c817fa73a5f46e9d40b093f06')
+sha256sums=('235d69202bd6118a3035a64419749e5da6615e984838c44db19e75a9e94cd6bd')
 
 pkgver() {
     date +%Y%m%d
