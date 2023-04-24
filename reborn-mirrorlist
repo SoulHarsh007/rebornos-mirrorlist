@@ -1,7 +1,10 @@
-# --> RebornOS Mirrorlist from 20221206-1 <-- #
+# --> RebornOS Mirrorlist from 20230424-1 <-- #
 
-# RebornOS repo: repo.rebornos.org
+# RebornOS repo: repo.rebornos.org - GEO Mirror
 Server = https://repo.rebornos.org/RebornOS/
+
+# RebornOS repo: nl-mirror.rebornos.org/RebornOS - NL Mirror (with redirection)
+Server = https://nl-mirror.rebornos.org/RebornOS/
 
 # Mirror 1:
 Server = http://osdn.mirror.constant.com/storage/g/r/re/rebornos/repo/RebornOS/
