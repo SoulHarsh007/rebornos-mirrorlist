@@ -66,16 +66,11 @@ Server = http://osdn.ip-connect.vn.ua/storage/g/r/re/rebornos/repo/RebornOS/
 # Mirror 20:
 Server = https://mirror.liquidtelecom.com/osdn/storage/g/r/re/rebornos/repo/RebornOS/
 
-
-
 # Singapore mirror (panda):
 Server = https://mirror.freedif.org/rebornos/
-
 
 # RebornOS mirror.clarkson.edu
 Server = https://mirror.clarkson.edu/RebornOS/RebornOS/
 
-
 # Sourceforge mirror with redirection
 Server = https://sourceforge.net/projects/rebornos/files/r/RebornOS/
-
