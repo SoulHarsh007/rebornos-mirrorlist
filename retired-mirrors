@@ -50,7 +50,7 @@ Server = http://sourceforge.mirror.iweb.com/project/rebornos/r/RebornOS/
 Server = https://deac-riga.dl.sourceforge.net/project/rebornos/r/RebornOS/
 
 # Sourceforge 17
-Server =  http://tenet.dl.sourceforge.net/project/rebornos/r/RebornOS/
+Server = http://tenet.dl.sourceforge.net/project/rebornos/r/RebornOS/
 
 # Sourceforge 18
 Server = https://nchc.dl.sourceforge.net/sourceforge/rebornos/r/RebornOS/
@@ -62,17 +62,11 @@ Server = https://kent.dl.sourceforge.net/sourceforge/rebornos/r/RebornOS/
 Server = https://jaist.dl.sourceforge.net/sourceforge/rebornos/r/RebornOS/
 ##### End Sourceforge mirrors #####
 
-
-
-
 ##### Mirrors with errors #####
 
 #########################################
 # Mirrors with Mirror with old versions #
 #########################################
-
-
-
 
 ########################
 # Mirrors with errors: #
