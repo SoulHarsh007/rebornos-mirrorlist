@@ -1,6 +1,62 @@
-##### Retired mirrors #####
+##### Retired Mirrors #####
 
-##### Start Sourceforge mirrors #####
+##### Start OSDN Mirrors #####
+
+# OSDN 1:
+Server = http://osdn.mirror.constant.com/storage/g/r/re/rebornos/repo/RebornOS/
+
+# OSDN 2:
+Server = https://mirrors.ocf.berkeley.edu/osdn/storage/g/r/re/rebornos/repo/RebornOS/
+
+# OSDN 3:
+Server = https://ftp.iij.ad.jp/pub/osdn.jp/storage/g/r/re/rebornos/repo/RebornOS/
+
+# OSDN 4:
+Server = http://ftp.halifax.rwth-aachen.de/osdn/storage/g/r/re/rebornos/repo/RebornOS/
+
+# OSDN 5:
+Server = https://ftp.acc.umu.se/mirror/osdn.net/storage/g/r/re/rebornos/repo/RebornOS/
+
+# OSDN 6:
+Server = http://194.71.11.163/mirror/osdn.net/storage/g/r/re/rebornos/repo/RebornOS/
+
+# OSDN 7:
+Server = http://mirror.math.princeton.edu/pub/osdn/storage/g/r/re/rebornos/repo/RebornOS/
+
+# OSDN 8:
+Server = https://openbsd.c3sl.ufpr.br/osdn/storage/g/r/re/rebornos/repo/RebornOS/
+
+# OSDN 9:
+Server = https://mirrors.dotsrc.org/osdn/storage/g/r/re/rebornos/repo/RebornOS/
+
+# OSDN 10:
+Server = https://free.nchc.org.tw/osdn/storage/g/r/re/rebornos/repo/RebornOS/
+
+# OSDN 11:
+Server = https://ftp.sunet.se/mirror/osdn.net/storage/g/r/re/rebornos/repo/RebornOS/
+
+# OSDN 12:
+Server = http://pumath.dl.osdn.jp/storage/g/r/re/rebornos/repo/RebornOS/
+
+# OSDN 13:
+Server = http://ftp.dk.xemacs.org/osdn/storage/g/r/re/rebornos/repo/RebornOS/
+
+# OSDN 14:
+Server = http://ftp.openbsd.dk/osdn/storage/g/r/re/rebornos/repo/RebornOS/
+
+# OSDN 15:
+Server = http://mirrors.gigenet.com/OSDN/storage/g/r/re/rebornos/repo/RebornOS/
+
+# OSDN 16:
+Server = https://plug-mirror.rcac.purdue.edu/osdn/storage/g/r/re/rebornos/repo/RebornOS/
+
+# OSDN 17:
+Server = http://osdn.ip-connect.vn.ua/storage/g/r/re/rebornos/repo/RebornOS/
+
+# OSDN 18:
+Server = https://mirror.liquidtelecom.com/osdn/storage/g/r/re/rebornos/repo/RebornOS/
+
+##### Start Sourceforge Mirrors #####
 # Sourceforge 1
 Server = http://razaoinfo.dl.sourceforge.net/sourceforge/rebornos/r/RebornOS/
 
