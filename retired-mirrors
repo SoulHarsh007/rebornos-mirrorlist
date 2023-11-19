@@ -118,6 +118,19 @@ Server = https://kent.dl.sourceforge.net/sourceforge/rebornos/r/RebornOS/
 Server = https://jaist.dl.sourceforge.net/sourceforge/rebornos/r/RebornOS/
 ##### End Sourceforge mirrors #####
 
+##### Start SoulHarsh007 mirrors #####
+
+# Migration to new domain
+# *.soulharsh007.rocks => *.soulharsh007.dev
+
+# SoulHarsh007 NY OLD Mirror
+Server = https://ny-mirror.soulharsh007.rocks/RebornOS/
+
+# SoulHarsh007 APAC-US Mirror
+Server = https://apac-us-mirror.soulharsh007.rocks/RebornOS/
+
+##### End SoulHarsh007 mirrors #####
+
 ##### Mirrors with errors #####
 
 #########################################

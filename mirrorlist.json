@@ -1,0 +1,41 @@
+{
+  "date": 20231119,
+  "revision": 1,
+  "mirrors": [
+    {
+      "name": "RebornOS Main Mirror",
+      "location": "Global",
+      "server": "https://repo.rebornos.org/RebornOS/"
+    },
+    {
+      "name": "RebornOS NL Mirror",
+      "location": "Netherlands, EU Central",
+      "server": "https://nl-mirror.rebornos.org/RebornOS/"
+    },
+    {
+      "name": "SoulHarsh007 NY Mirror",
+      "location": "New York, US East",
+      "server": "https://nyc-use.soulharsh007.dev/RebornOS/"
+    },
+    {
+      "name": "SoulHarsh007 LB Mirror",
+      "location": "SEA and US West Load Balanced",
+      "server": "https://sea-usw-lb.soulharsh007.dev/RebornOS/"
+    },
+    {
+      "name": "FreeDif SG Mirror",
+      "location": "Singapore, SEA",
+      "server": "https://mirror.freedif.org/rebornos/"
+    },
+    {
+      "name": "Clarkson US Mirror",
+      "location": "New York, US East",
+      "server": "https://mirror.clarkson.edu/RebornOS/RebornOS/"
+    },
+    {
+      "name": "SourceForge Mirror",
+      "location": "Global",
+      "server": "https://sourceforge.net/projects/rebornos/files/r/RebornOS/"
+    }
+  ]
+}
