@@ -1,5 +1,5 @@
 pkgname=rebornos-mirrorlist
-pkgver=20231119
+pkgver=20240214
 pkgrel=1
 pkgdesc="RebornOS mirror list for use by pacman"
 arch=('any')
