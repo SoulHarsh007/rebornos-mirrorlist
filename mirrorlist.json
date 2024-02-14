@@ -1,5 +1,5 @@
 {
-  "date": 20231202,
+  "date": 20240214,
   "revision": 1,
   "mirrors": [
     {
@@ -21,16 +21,6 @@
       "name": "SoulHarsh007 LB Mirror",
       "location": "SEA and US West Load Balanced",
       "server": "https://sea-usw-lb.soulharsh007.dev/RebornOS/"
-    },
-    {
-      "name": "FreeDif SG Mirror",
-      "location": "Singapore, SEA",
-      "server": "https://mirror.freedif.org/rebornos/"
-    },
-    {
-      "name": "Clarkson US Mirror",
-      "location": "New York, US East",
-      "server": "https://mirror.clarkson.edu/RebornOS/RebornOS/"
     },
     {
       "name": "SourceForge Mirror",
