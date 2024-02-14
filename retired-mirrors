@@ -137,6 +137,14 @@ Server = https://apac-us-mirror.soulharsh007.rocks/RebornOS/
 # Mirrors with Mirror with old versions #
 #########################################
 
+# Name: FreeDif SG Mirror
+# Location: Singapore, SEA
+Server = https://mirror.freedif.org/rebornos/
+
+# Name: Clarkson US Mirror
+# Location: New York, US East
+Server = https://mirror.clarkson.edu/RebornOS/RebornOS/
+
 ########################
 # Mirrors with errors: #
 ########################

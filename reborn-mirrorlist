@@ -1,4 +1,4 @@
-# --> RebornOS Mirrorlist from 20231202-1 <-- #
+# --> RebornOS Mirrorlist from 20240214-1 <-- #
 
 # Name: RebornOS Main Mirror
 # Location: Global
@@ -15,14 +15,6 @@ Server = https://nyc-use.soulharsh007.dev/RebornOS/
 # Name: SoulHarsh007 LB Mirror
 # Location: SEA and US West Load Balanced
 Server = https://sea-usw-lb.soulharsh007.dev/RebornOS/
-
-# Name: FreeDif SG Mirror
-# Location: Singapore, SEA
-Server = https://mirror.freedif.org/rebornos/
-
-# Name: Clarkson US Mirror
-# Location: New York, US East
-Server = https://mirror.clarkson.edu/RebornOS/RebornOS/
 
 # Name: SourceForge Mirror
 # Location: Global
