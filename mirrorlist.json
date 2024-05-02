@@ -1,5 +1,5 @@
 {
-  "date": 20240214,
+  "date": 20240502,
   "revision": 1,
   "mirrors": [
     {
@@ -13,14 +13,14 @@
       "server": "https://nl-mirror.rebornos.org/RebornOS/"
     },
     {
-      "name": "SoulHarsh007 NY Mirror",
-      "location": "New York, US East",
-      "server": "https://nyc-use.soulharsh007.dev/RebornOS/"
-    },
-    {
       "name": "SoulHarsh007 LB Mirror",
       "location": "SEA and US West Load Balanced",
       "server": "https://sea-usw-lb.soulharsh007.dev/RebornOS/"
+    },
+    {
+      "name": "FreeDif SG Mirror",
+      "location": "Singapore, SEA",
+      "server": "https://mirror.freedif.org/rebornos/RebornOS/"
     },
     {
       "name": "SourceForge Mirror",
