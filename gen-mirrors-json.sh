@@ -16,9 +16,11 @@ revision=$(echo "$metadata_line" | cut -d'-' -f2)
 
 # Start JSON structure
 echo "{" >"$json_file"
-echo "  \"date\": $date," >>"$json_file"
-echo "  \"revision\": $revision," >>"$json_file"
-echo "  \"mirrors\": [" >>"$json_file"
+{
+  echo "  \"date\": $date,"
+  echo "  \"revision\": $revision,"
+  echo "  \"mirrors\": ["
+} >>"$json_file"
 
 # Read each line from the mirrorlist file
 while IFS= read -r line; do

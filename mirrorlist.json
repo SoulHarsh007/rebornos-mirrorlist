@@ -1,5 +1,5 @@
 {
-  "date": 20240502,
+  "date": 20240511,
   "revision": 1,
   "mirrors": [
     {
@@ -21,6 +21,11 @@
       "name": "FreeDif SG Mirror",
       "location": "Singapore, SEA",
       "server": "https://mirror.freedif.org/rebornos/RebornOS/"
+    },
+    {
+      "name": "Clarkson US Mirror",
+      "location": "New York, US East",
+      "server": "https://mirror.clarkson.edu/RebornOS/RebornOS/"
     },
     {
       "name": "SourceForge Mirror",
