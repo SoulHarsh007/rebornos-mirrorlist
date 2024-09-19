@@ -1,8 +1,12 @@
-# --> RebornOS Mirrorlist from 20240511-1 <-- #
+# --> RebornOS Mirrorlist from 20240919-1 <-- #
 
 # Name: RebornOS Main Mirror
 # Location: Global
 Server = https://repo.rebornos.org/RebornOS/
+
+# Name: SoulHarsh007 EU Mirror
+# Location: Austria, EU Central
+Server = https://at-vie-rebornos.soulharsh007.dev/RebornOS/
 
 # Name: RebornOS NL Mirror
 # Location: Netherlands, EU Central

@@ -1,11 +1,16 @@
 {
-  "date": 20240511,
+  "date": 20240919,
   "revision": 1,
   "mirrors": [
     {
       "name": "RebornOS Main Mirror",
       "location": "Global",
       "server": "https://repo.rebornos.org/RebornOS/"
+    },
+    {
+      "name": "SoulHarsh007 EU Mirror",
+      "location": "Austria, EU Central",
+      "server": "https://at-vie-rebornos.soulharsh007.dev/RebornOS/"
     },
     {
       "name": "RebornOS NL Mirror",
